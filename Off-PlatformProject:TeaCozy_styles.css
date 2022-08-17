@@ -1,0 +1,21 @@
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 10px;
+  text-align: center;
+  sdd
+}
+
+header {
+  background-color: #333333;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+
+
+.month-tea img {
+  height: 200px;
+  width: 300px;
+}
